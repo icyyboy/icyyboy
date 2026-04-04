@@ -4,11 +4,11 @@
     <img src="https://komarev.com/ghpvc/?username=icyyboy" alt="icyyboy"/>       
     <!--<a href="https://github.com/icyyboy?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/icyyboy" alt="Repos"/></a>--> 
     <!--<img src="https://badges.pufler.dev/years/icyyboy" alt="Active_Years"/>-->  
-    <!--<a href="https://github.com/milaan9/icyyboy" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/icyyboy" alt="commits"/>--> 
+    <!--<a href="https://github.com/icyyboy/icyyboy" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/icyyboy" alt="commits"/>--> 
     <a href="https://github.com/icyyboy/icyyboy/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/icyyboy/icyyboy" /></a>
     <a href="https://github.com/icyyboy?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/icyyboy?color=4C1&logo=github"></a>
     <a href="https://github.com/icyyboy/icyyboy" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/icyyboy/icyyboy?label=Profile%20update&style=fflat-square"></a>
-    <!--<a href="https://github.com/milaan9" target="_blank"><img alt="icyy" src="https://badges.pufler.dev/visits/icyyboy/icyyboy?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
+    <!--<a href="https://github.com/icyyboy" target="_blank"><img alt="icyy" src="https://badges.pufler.dev/visits/icyyboy/icyyboy?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
     <!--<img src="https://badges.pufler.dev/gists/icyyboy" alt="icyyboy"/>-->
     <!--<img src="https://readme-jokes.vercel.app/api" alt="icyyboy"/>-->
 </p> 
