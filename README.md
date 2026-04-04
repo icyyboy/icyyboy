@@ -22,7 +22,7 @@
 
 </p> 
 <p align="center"> 
-    <a href="https://github.com/iccyboy" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@iccyboy?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://github.com/iccyboy" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@icyyboy?style=flat-square&logo=GitHub&logoColor=white"></a>
 <table align="right">
     <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
     <tr><td><a href="README.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> English ★★★</a></td></tr>
