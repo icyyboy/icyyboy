@@ -26,9 +26,9 @@
 <table align="right">
     <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
     <tr><td><a href="README.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> English ★★★</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197375.svg" height="15"> Spanish ★★★</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197408.svg" height="15"> Catalan ★★★</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/3909444.svg" height="15"> French ★☆☆</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://imgs.search.brave.com/lj7eBgHgClBG2Q9QTY-b8V7tE9AERfCFBnBjzRge5Ro/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS8x/MjgvODM2My84MzYz/MDU5LnBuZw" height="15"> Spanish ★★★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://imgs.search.brave.com/0AR-AP72pBEZxy3sl9hF0HvgT9xHy9cikb919ORxeXg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS8x/MjgvMTA2MDAvMTA2/MDA3MzAucG5n" height="15"> Catalan ★★★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://imgs.search.brave.com/xe02cUSf2L4bZxAZVcqLL06OWVee3VQvYS7bz177mac/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMTUv/Njk4LzcyOC9zbWFs/bC9vZmZpY2lhbC1m/bGFnLW9mLWZyYW5j/ZS1pbi1jaXJjbGUt/c2hhcGUtbmF0aW9u/LWZsYWctaWxsdXN0/cmF0aW9uLXBuZy5w/bmc" height="15"> French ★☆☆</a></td></tr>
 </table>
 
 
